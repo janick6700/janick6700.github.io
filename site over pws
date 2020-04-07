@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Theme Made By www.w3schools.com - No Copyright -->
+  <title>Bootstrap Theme Simply Me</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  
+  .bg-1 { 
+      background-color: #474e5d; /* dark blue */
+      color: #ffffff;
+  }
+ .bg-2 { 
+      background-color: #ffffff; /* White */
+      color: #555555;
+  }
+  .bg-3 { 
+      background-color: #474e5d; /* dark blue */
+      color: #ffffff;
+  .bg-4 { 
+      background-color: #2f2f2f; /* dark gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+  </style>
+</head>
+<body>
+
+
+
+-->
+<!-- Navbar -->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <div class="col-xs-12">
+      <button class="btn btn-block btn-primary"><i class="fa fa-thumbs-up"></i> site over ons pws</button>
+    </div>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#ik"><button class="btn btn-block btn-primary"> <i class="fa fa-thumbs-up" ></i> pws janick</button></a></li>
+        <li><a href="#leuk"><button class="btn btn-block btn-primary"><i class="fa fa-thumbs-up"></i> pws fons</button></a></li>
+       
+      </ul>
+    </div>
+	
+
+  </div>
+</nav>
+   
+
+<!-- Second Container -->
+
+  
+</div>
+<div class="container-fluid bg-3 text-center">    
+  <h3 id="ik" class="margin">PWS Janick</h3><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <p>ik heb mijn pws samen met tommie en joost gemaakt. We wilden een onderzoek doen waarbij we niet alleen maar achter een computer hoefde te zitten, maar waar we ook echt iets gingen onderzoeken. Dus hebben wij onderzocht hoe je het meeste rendement uit een investering kan halen.  </p>
+      <img src="https://www.axento.nl/resources/uploads/blocks/wat-zijn-aandelen.jpg" class="img-circle img-responsive margin" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <p> We hebben ons alledrie gefocust op een andere soort investering: Joost focusde zich op een risicomijdende investering, Tommie op een risiconeutrale investering en ikzelf op een risicozoekende investering. Risicomijdend houdt in dat je het risicozo laag mogelijk wilt houden, risiconeutraal dat het risico je niet uitmaakt en risicozoekend dat je het risicojuist opzoekt.  </p>
+      <img src="https://www.wereldwijdleven.com/file/2017/08/6-tips-om-van-de-helft-van-je-loon-te-leven-en-de-rest-te-investeren-850x570.jpg" class=" img-circle img-responsive margin" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <p>Joost investeerde in een aandeel van Ahold Delhaize, Tommie in een aandeel van Ajax en ikzellf in Toto. Joost haalde het meeste rendement uit zijn investering en had de onderlinge challenge gewonnen. Hieruit bleek dat een risicomijdende investering het meeste rendement oplevert</p>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhrzWq2P1kQW_ux0IRICI0ewSfsr3q009EA1ZgX0pmDE8R9r09&usqp=CAU" class="img-circle img-responsive margin" style="width:100%" alt="Image">
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid bg-3 text-center">    
+ 
+  
+
+
+<!-- Third Container (Grid) -->
+<div class="container-fluid bg-3 text-center">    
+  <h3 id="leuk" class="margin">PWS Fons</h3><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <p>Voeding: Bij mijn PWS moest ik voor een maand op mijn voeding letten. Ik had een dieet gekregen van een dietiste. Het dieet is eignlijk het beste voedingsschema, wat een gezond persoon kan eten op een dag. Dit houdt in dat je een bepaald percentage van bijv. Eiwitten of vetten. De verhouding is als volgt:40-30-30. 40% koolhydraten, 30% uit eiwitten en 30% uit vetten. In totaal moest ik 4500 kcal per dag eten. En dan volgens de verhouding van hierboven aangegeven. </p>
+      <img src="https://www.puurfiguur.nl/wp-content/uploads/2018/03/20-tips-h-min-1014x410.jpg" class="img-circle img-responsive margin" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <p>Trainen: Mijn trainingschema heb ik laten maken door een personal trainer. Hij heeft er veel verstand van hoe je je spiergroepen het best kan trainen. We ging namelijk kijken of we in de big five meting vooruitgang boekte. De vooruitgang met het trainen t.o.v. het trainen en dieet. We trainden een maand zonder voeding en één maand met voeding. Daar bekeken we het verschil in. De big five zijn je 5 grootste spiergroepen in je lichaam. (Chest, Schouder,Rug,Benen en triceps.)</p>
+      <img src="https://www.droogtrainen.com/wp-content/uploads/2015/09/shutterstock_184377494-2.jpg?x75873" class=" img-circle img-responsive margin" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <p>Bier: Voor ons PWS was zeker discipline nodig. We gingen 4 tot 5 keer per week naar de sportschool. De volgende maand ook met een dieet. Het dieet zorgde ervoor, dat je na het harde sporten niet wat lekkers had verdiend. Dit was moeilijk, vooral als je staat te feesten op een vrijdagavond. De BOB van de groep ben je dan gelijk.</p>
+      <img src="https://www.droogtrainen.com/wp-content/uploads/2015/09/shutterstock_184377494-2.jpg?x75873" class="img-circle img-responsive margin" style="width:100%" alt="Image">
+    </div>
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="container-fluid bg-4 text-center">
+  <p>Bootstrap Theme Made By <a href="https://www.w3schools.com/">www.w3schools.com</a></p> 
+</footer>
+
+
+</body>
+</html>
+
